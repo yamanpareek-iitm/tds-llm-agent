@@ -8,7 +8,7 @@ Modern LLM agents aren’t limited to text — they dynamically integrate multip
 
 ---
 
-**Project url = (https://tds-llm-agent-liard.vercel.app/)**
+**Project url = https://tds-llm-agent-liard.vercel.app/**
 
 ## 🚀 Features
 
